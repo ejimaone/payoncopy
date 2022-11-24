@@ -442,7 +442,7 @@ html {
   display: none;
 }
 
-@media screen and (max-width: 1475px) {
+@media screen and (max-width: 1375px) {
   .nav {
     width: 0px;
     display: none;
@@ -470,7 +470,7 @@ html {
   }
 }
 
-@media screen and (max-width: 1255px) {
+@media screen and (max-width: 1200px) {
   .structure {
     display: grid;
     grid-template-columns: 0px 1fr 0rem;
@@ -524,7 +524,7 @@ html {
   }
 }
 
-@media screen and (min-width: 2200px) {
+@media screen and (min-width: 1880px) {
   .euro {
     border-radius: 4px;
     box-shadow: 2px 1px rgb(128, 128, 128, 0.5);
